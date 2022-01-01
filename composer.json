@@ -1,7 +1,7 @@
 {
-  "name":"oveleon/contao-advanced-form",
+  "name":"bubaks/contao-advanced-form",
   "type":"contao-bundle",
-  "description":"advanced-form extension for Contao Open Source CMS",
+  "description":"TEST for php8 advanced-form extension for Contao Open Source CMS",
   "keywords":["contao","forms","condition","multi","multipage"],
   "homepage":"https://oveleon.de/",
   "license":"AGPL-3.0",
